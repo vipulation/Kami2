@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719068344448",
+    "firebase_url": "https://kami-2f774.firebaseio.com",
+    "project_id": "kami-2f774",
+    "storage_bucket": "kami-2f774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719068344448:android:5954899bba37989abbf665",
+        "android_client_info": {
+          "package_name": "com.vipul.kami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719068344448-6c1p9gcl887np8td2npan8v57t6s73mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vipul.kami",
+            "certificate_hash": "58edc86d5ef22c43b552c83e82feb23e35ba9ec7"
+          }
+        },
+        {
+          "client_id": "719068344448-fa5494pb9p5pu5go8i3eileru0cvatds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYZCXp9VrJHGFHVWAS09qzDa2bdw2VAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719068344448-fa5494pb9p5pu5go8i3eileru0cvatds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
